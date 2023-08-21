@@ -1,0 +1,5 @@
+*.pyc
+autocommit.egg-info/
+build/
+dist/
+.envrc
